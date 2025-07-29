@@ -1,6 +1,7 @@
-<p align="left">
-  <img src="[https://github.com/geetha/geetha/blob/main/thbe.png?raw=true](https://github.com/demoseries/Geetha/blob/main/New%20image.png)" width="200" style="border-radius: 50%;" alt="Geetha Profile Picture" />
+<p align="center">
+  <img src="https://github.com/demoseries/Geetha/raw/0b7bbb47b161b0df9f00a3dec97ccc6dd8165b3a/New%20image.png" width="200" alt="Profile Photo" />
 </p>
+
 
 ## 👋 Hi, I'm Geetha Tadasad B
 
