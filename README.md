@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript,React.js, PHP**
 
-- 👨‍💻 All of my projects are available at [https://codesandbox.io/p/sandbox/portfolio-hxkmtw](https://codesandbox.io/p/sandbox/portfolio-hxkmtw)
+- 👨‍💻 All of my projects are available at https://hxkmtw.csb.app/
 
 - 📫 How to reach me **tadasadbgeetha@gmail.com**
 
