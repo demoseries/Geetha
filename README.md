@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/geetha/geetha/blob/main/thbe.png?raw=true" width="200" style="border-radius: 50%;" alt="Geetha Profile Picture" />
+  <img src="[https://github.com/geetha/geetha/blob/main/thbe.png?raw=true](https://github.com/demoseries/Geetha/blob/main/New%20image.png)" width="200" style="border-radius: 50%;" alt="Geetha Profile Picture" />
 </p>
 
 ## 👋 Hi, I'm Geetha Tadasad B
