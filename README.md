@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geethatadasadb&show_icons=true&locale=en" alt="geethatadasadb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethatadasadb&" alt="geethatadasadb" /></p>
+
 
 ------
 
